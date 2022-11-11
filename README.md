@@ -1,4 +1,4 @@
-# NewspaperArticleClassification
+# Newspaper Article Classification
 A 20_newspaper database was used to train this model which contained over 20,000 newspaper articles of different categories.
 
 In this project, I compared the accuracy of hand-coded multinomial bayes theorem with multinomial naive bayes classifier from sckikit-learn.
