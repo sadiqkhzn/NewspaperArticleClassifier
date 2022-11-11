@@ -1,8 +1,8 @@
 # NewspaperArticleClassification
-Used a 20_newspaper database to train this model, it contains 20,000 newspaper articles of different categories
-In this project , I comparied the accuracy of hand-coded multinomial bayes theorem with multinomial naive bayes classifier from sckikit-learn
+A 20_newspaper database was used to train this model which contained over 20,000 newspaper articles of different categories.
 
-One of the challenging parts was to loop through 20,000 files which are distributed over 20 folders.I used os module for it.One of the most creative solutions to the problem 
-that I have ever encountered in my coding journey.I would really it if you could go through the solution,i have used 2 nested loops.
+In this project, I compared the accuracy of hand-coded multinomial bayes theorem with multinomial naive bayes classifier from sckikit-learn.
 
-following that extracting useful data from files ,cleaning it and doing NLP was also very challenging especially since i decided to write every function from scartch
+One of the most challenging part was to loop through 20,000 files which were distributed over 20 folders. I used OS module for that, honestly one of the most creative solutions to the problem that I have ever encountered in my coding journey. I would really like it if you could go through the solution. 
+
+I have used 2 nested loops, followed by extracting useful data from files, cleaning it up and doing NLP was also very challenging especially since I decided to write every function from scratch.
